@@ -1,5 +1,5 @@
-Problem Name : Weather Observation Station 5
-Problem Link : https://www.hackerrank.com/challenges/weather-observation-station-5/problem?h_r=next-challenge&h_v=zen
+--Problem Name : Weather Observation Station 5
+--Problem Link : https://www.hackerrank.com/challenges/weather-observation-station-5/problem?h_r=next-challenge&h_v=zen
 
 SELECT city, LENGTH(city)   --Display City Name and Length
 FROM station                --From STATION table
